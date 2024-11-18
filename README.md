@@ -191,7 +191,7 @@ sequenceDiagram
 ### Implementation Details
 - **Implemented for**: Emmanuel Acheampong
 - **Status**: Complete and functional
-- **Repository** - teammate retrieves service from GitHub: [Your GitHub Repository URL]
+- **Repository** - teammate retrieves service from GitHub: [[Your GitHub Repository URL](https://github.com/EClinick/Auth_Microservice)]
 
 ### Access Instructions
 1. Clone the repository from GitHub
